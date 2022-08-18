@@ -8,7 +8,7 @@ Adjust and re-arrange html and css code for easy understanding and better fuctio
 * CSS
 
 ## Website
-https://dus0001.github.io/challenge-1/
+https://dus0001.github.io/New-Horiseon-/
 
 ## Contribution
 Made with ❤️ by Daven
