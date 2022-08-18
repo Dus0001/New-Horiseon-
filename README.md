@@ -11,4 +11,4 @@ Adjust and re-arrange html and css code for easy understanding and better fuctio
 https://lernantino.github.io/run-buddy/
 
 ## Contribution
-Made with ❤️ by [your name]
+Made with ❤️ by Daven
