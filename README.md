@@ -8,7 +8,7 @@ Adjust and re-arrange html and css code for easy understanding and better fuctio
 * CSS
 
 ## Website
-https://lernantino.github.io/run-buddy/
+https://dus0001.github.io/challenge-1/
 
 ## Contribution
 Made with ❤️ by Daven
